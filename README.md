@@ -3,4 +3,4 @@ This is a simple app that displays online presence of other users to the current
 
 ## Usage
 Just sign up and all online users are displayed
-https://online-presence-detector.herokuapp.com/
+
