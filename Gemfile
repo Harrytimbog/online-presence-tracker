@@ -34,6 +34,7 @@ gem 'simple_form'
 gem 'pusher'
 gem 'figaro'
 gem 'devise'
+gem 'dotenv-rails', groups: [:development, :test]
 
 group :development, :test do
   gem 'pry-byebug'
