@@ -1,1 +1,8 @@
-Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
+# Overview
+This is a simple app that displays online presence of other users to the current user.
+
+## Usage
+Just sign up and all online users are displayed
+
+### Website
+https://online-presence-detector.herokuapp.com/
