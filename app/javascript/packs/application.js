@@ -24,12 +24,12 @@ require("channels")
 
 // External imports
 import "bootstrap";
-require('coffee')
-
+import { userUpdate } from "../includes/users.js";
 // Internal imports, e.g:
 // import { initSelect2 } from '../components/init_select2';
 
 document.addEventListener('turbolinks:load', () => {
   // Call your functions here, e.g:
   // initSelect2();
+  userUpdate();
 });
